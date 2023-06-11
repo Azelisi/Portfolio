@@ -1,0 +1,7 @@
+{
+    "extends": "eslint-config-standard",
+    "rules": {
+      "declaration-no-important": true,
+      "indentation": 2
+    }
+  }
